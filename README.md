@@ -10,7 +10,7 @@ Thus projects contains 5 Changesets
 1 changeset to alter a table
 
 In a project with multiple developers using a version control system. 
-# team
+# Team
  All the developers will have the same schema on their local computer
         - By version controlling the change-log files
 Every Developer has a unique liquibase.properties-file (contains sschema and credentials)
